@@ -21,12 +21,14 @@
    
    ![irenly's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenly&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    
-
+</div>
 
 # 📬 Connect with me:
 
-   [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail)](mailto:sebastian.gply@gmail.com)
 
+   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/imsebg/)
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/imsebg/)
+   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sebastian.gply@gmail.com)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 💻 Skills</b>
 <br>
