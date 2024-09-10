@@ -1,4 +1,4 @@
-# 💫 Acerca de Mi:
+# <img src="https://media.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" width ="25">  Acerca de Mi:
 <p align="center" width="300">
    <img align="center" width="350" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D5603AQG2yEQckUv1dw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725563408259?e=1731542400&v=beta&t=KsyUaONlJmPaTlJiFS1IBwYSERgKEAFzbUgG9ARKRpk" />
    <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sebastia Giraldo</h3>
@@ -23,7 +23,7 @@
    
 </div>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvYm10czQ2a3M1bjBleWQyNGplaXFpaXczNnBkMzl0eDUyYWQ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVzaMExWBN7gEkVp7u/giphy.gif" width ="25"><b>📬 Connect with me</b>
+## <img src="https://media1.tenor.com/m/UOvBsnN3Jb4AAAAC/kitty-kitten.gif" width ="25"><b>📬 Connect with me</b>
 
 
    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/imsebg/)
