@@ -27,13 +27,13 @@
 
 - **Front-End Development**:
     
-    [![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,bootstrap,materialui,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap,materialui,html,css)](https://skillicons.dev)
 
 <br>   
     
 - **Back-End Development**:
     
-    [![My Skills](https://skillicons.dev/icons?i=django,cs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,laravel)](https://skillicons.dev)
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 
 <br>
