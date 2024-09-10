@@ -1,6 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D5603AQG2yEQckUv1dw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725563408259?e=1731542400&v=beta&t=KsyUaONlJmPaTlJiFS1IBwYSERgKEAFzbUgG9ARKRpk" />
    <h3 align="center">Hi 👋, I'm Sebastia Giraldo</h3>
+# 💫 Acerca de Mi:
    I am a sixth semester Software Development student at the Universidad del Valle❤️🤍, 22 years old and with a great passion for the world of programming. I specialize in web development, always looking to learn new technologies and improve my skills👨‍💻✨
    - 🌱 I’m currently learning **Laravel, NodeJs, React, HTML and CSS**
 </p>
