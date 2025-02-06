@@ -69,6 +69,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![HTML](https://img.shields.io/badge/html-dc7d1e?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1677d9?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Astro](https://img.shields.io/badge/CSS-1677d9?style=for-the-badge&logo=Astro&logoColor=white)
 
  
 
