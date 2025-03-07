@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" width ="25">  Acerca de Mi:
 <p align="center" width="300">
-   <img align="center" width="350" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D5603AQG2yEQckUv1dw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725563408259?e=1731542400&v=beta&t=KsyUaONlJmPaTlJiFS1IBwYSERgKEAFzbUgG9ARKRpk" />
+   
    <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sebastian Giraldo</h3>
 
    I am a seventh semester Software Development student at the Universidad del Valle❤️🤍, 22 years old and with a great passion for the world of programming. I specialize in web development, always looking to learn new technologies and improve my skills👨‍💻✨.
