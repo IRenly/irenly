@@ -16,8 +16,16 @@
   </a>
 </p>
 
+---
 
-[![Spotify](https://spotify-now-playing-test-fceihe5md-irenlys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/314my2vttklefyznofqbt2uz3w74)
+## 🎧 I'm listening... 🎶
+<p align="center">
+  <a href="https://open.spotify.com/user/314my2vttklefyznofqbt2uz3w74">
+    <img src="https://spotify-now-playing-test.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</p>
+
+---
 <div align="center">
    
    ![irenly's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenly&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
