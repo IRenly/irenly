@@ -17,6 +17,7 @@
 </p>
 
 
+[![Spotify](https://spotify-now-playing-test-k9rbm0yqt-irenlys-projects.vercel.app/)](https://open.spotify.com/user/USER_NAME)
 <div align="center">
    
    ![irenly's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenly&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
