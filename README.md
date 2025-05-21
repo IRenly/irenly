@@ -1,15 +1,25 @@
 # <img src="https://media.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" width ="25">  Acerca de Mi:
-<p align="center" width="300">
-   
-   <h3 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      
+   <h3 align="left">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=EB1F6A&width=435&lines=I'm+Sebastian++%F0%9F%98%BC!+" alt="Typing SVG" /></a>
    </h3>
 
-
-   I am a seventh semester Software Development student at the Universidad del Valle❤️🤍, 22 years old and with a great passion for the world of programming. I specialize in web development, always looking to learn new technologies and improve my skills👨‍💻✨.
+   I am a seventh semester Software Development student at the Universidad del Valle ❤️🤍, 22 years old and with a great passion for the world of programming.  
+   I specialize in web development, always looking to learn new technologies and improve my skills 👨‍💻✨.  
    
    🌱 I’m currently learning **Laravel, NodeJs, React, HTML and CSS**
-</p>
+
+   </td>
+    <td valign="top" width="40%">
+      <img src="https://github.com/user-attachments/assets/36ca42b7-32da-46b8-9727-f8d455d5c5d8" width="100%" alt="Sebastian Avatar"/>
+    </td>
+  </tr>
+</table>
+
+
 <p align='center'>
   <a href='https://www.linkedin.com/in/imsebg'>
     <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white'>
@@ -31,10 +41,10 @@
 ---
 <div align="center">
    
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iRenly&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
+   ![](https://nirzak-streak-stats.vercel.app/?user=iRenly&theme=monokai&hide_border=true)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
    
 </div>
 
