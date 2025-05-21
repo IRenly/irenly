@@ -7,7 +7,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=EB1F6A&width=435&lines=I'm+Sebastian++%F0%9F%98%BC!+" alt="Typing SVG" /></a>
    </h3>
 
-   I am a seventh semester Software Development student at the Universidad del Valle ❤️🤍, 22 years old and with a great passion for the world of programming.  
+   I am a seventh semester Software Development student at the Universidad del Valle ❤️🤍, 23 years old and with a great passion for the world of programming.  
    I specialize in web development, always looking to learn new technologies and improve my skills 👨‍💻✨.  
    
    🌱 I’m currently learning **Laravel, NodeJs, React, HTML and CSS**
