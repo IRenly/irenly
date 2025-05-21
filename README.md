@@ -1,7 +1,10 @@
 # <img src="https://media.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" width ="25">  Acerca de Mi:
 <p align="center" width="300">
    
-   <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=9129F7&width=435&lines=I'm+Sebastian++%F0%9F%98%B8!" alt="Typing SVG" /></a></h3>
+   <h3 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=8E47F7&width=435&lines=I'm+Sebastian++%F0%9F%98%B8!" alt="Typing SVG" /></a>
+   </h3>
+
 
    I am a seventh semester Software Development student at the Universidad del Valle❤️🤍, 22 years old and with a great passion for the world of programming. I specialize in web development, always looking to learn new technologies and improve my skills👨‍💻✨.
    
