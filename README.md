@@ -41,9 +41,24 @@
 ---
 <div align="center">
    
-   ![](https://github-readme-stats.vercel.app/api?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-   ![](https://nirzak-streak-stats.vercel.app/?user=iRenly&theme=monokai&hide_border=true)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iRenly&theme=monokai&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h2 align="center">🧠 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRenly&theme=monokai&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
 
    
 </div>
@@ -102,10 +117,7 @@
 
 <br>
 </p>
-<div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irenly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 <div align="center">
         <img src="https://komarev.com/ghpvc/?username=irenly&color=blueviolet&style=flat&label=PROFILE+VIEWS"
