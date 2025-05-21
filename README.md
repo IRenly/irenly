@@ -2,7 +2,7 @@
 <p align="center" width="300">
    
    <h3 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=8E47F7&width=435&lines=I'm+Sebastian++%F0%9F%98%B8!" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=EB1F6A&width=435&lines=I'm+Sebastian++%F0%9F%98%BC!+" alt="Typing SVG" /></a>
    </h3>
 
 
@@ -31,7 +31,10 @@
 ---
 <div align="center">
    
-   ![irenly's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenly&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iRenly&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iRenly&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
    
 </div>
 
